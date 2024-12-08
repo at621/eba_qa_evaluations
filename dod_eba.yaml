@@ -1,0 +1,854 @@
+- question_id: 2024_7108
+  date_of_publication: 30/09/2024
+  topic: Credit risk
+  article: 178
+  paragraph: 1
+  subparagraph: b
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Law firm
+  date_of_submission: 14/06/2024
+  status: Rejected question
+  subject_matter: Counting of days past due in factoring arrangements
+  question: |
+    As for non-recourse factoring, is it correct to start the counting of days past due
+    based on the payment schedule defined or implied in the contractual terms with the client
+    (i.e., the party from which the factor purchases the receivables)?
+  background: |
+    The question is raised as the same has become particularly relevant for a number
+    of financial institutions operating in the factoring sector, whereby an incorrect initiation
+    of the counting of past due may lead to a misclassification of the relevant exposures which,
+    in turn, could cause an overly burdensome effect for financial institutions in terms of
+    prudential capital requirements (also in instances which are not characterized by actual or
+    potential credit risk deterioration).
+  context: |
+    Not applicable
+  answer: |
+    This question has been rejected because the issue it deals with is already explained
+    or addressed in Guidelines on the application of the definition of default under Article 178
+    of Regulation (EU) No 575/2013 (EBA/GL/2016/07).
+
+- question_id: 2021_6045
+  date_of_publication: 11/02/2022
+  topic: Credit risk
+  article: 178
+  paragraph: 3
+  subparagraph: d
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Credit institution
+  date_of_submission: 21/06/2021
+  status: Final Q&A
+  subject_matter: Calculation of NPV loss in case of (internal) refinancing
+  question: |
+    Which NPV loss should be taken in order to calculate the NPV loss if the 1%
+    threshold is breached and the forborne loan contract should be placed in default?
+  background: |
+    A client contacts the institution for a loan restructuring of his retail mortgage loan
+    as his repayment capacity has declined. This restructuring is granted via a (internal)
+    refinancing of the mortgage loan with a prolongment of the duration and at current market
+    interest rate (which is in line with the interest rates granted under normal circumstances and
+    taking into account the prolonged duration of the loan). The new interest rate of the refinanced
+    loan contract is hereby lower than the interest rate of the original loan contract, but this is due
+    to the market evolution of the interest rate levels.
+  context: |
+    paragraph 49 of EBA/GL/2016/07 >>> For the purposes of unlikeliness to pay as referred to in point (d) of Article 178(3) of
+    Regulation (EU) No 575/2013, a distressed restructuring should be considered to have
+    occurred when concessions have been extended towards a debtor facing or about to face
+    difficulties in meeting its financial commitments as specified in paragraphs 163-167 and 172-
+    174 of Annex V Commission Implementing Regulation (EU) No 680/2014 of 16 April 20143 as
+    amended by Commission Implementing Regulation (EU) 2015/2274
+
+    paragraph 51 of EBA/GL/2016/07 >>> Institutions should set a threshold for the diminished financial 
+    obligation that is considered to be caused by material forgiveness or postponement of principal, interest, 
+    or fees, and which should be calculated according to the following formula, and should not be higher than 1%:
+    
+    𝐷0 = (NPV0 − NPV1) / NPV0
+    where:
+    DO is diminished financial obligation;
+    NPV0 is net present value of cash flows (including unpaid interest and fees) expected
+    under contractual obligations before the changes in terms and conditions of the contract
+    discounted using the customer’s original effective interest rate;
+    NPV1 is net present value of the cash flows expected based on the new arrangement
+    discounted using the customer’s original effective interest rate.
+  answer: |
+    According to paragraph 51 of EBA/GL/2016/07 for the purposes of calculating the
+    diminished financial obligation (DO) the parameter NPV1 is to be determined as "the net
+    present value of the cash flows expected based on the new arrangement discounted using the
+    customer’s original effective interest rate". This rule does not differentiate by the reasons why
+    the net present value of the expected cash flows under the new arrangement may be lower.
+    Therefore, in the specific case of distressed restructuring as set out in paragraph 49 of
+    EBA/GL/2016/07 the institution must determine whether "material forgiveness or postponement
+    of principal, interest or fees" (paragraph 51 ibid) has occurred based on the expected cash
+    flows under the new arrangement, irrespective of whether these cash flows relate to general
+    market rates that are lower than the corresponding market rates underlying the contractual
+    obligations before the changes in terms and conditions of the contract, or not.
+
+- question_id: 2021_5754
+  date_of_publication: 17/12/2021
+  topic: Credit risk
+  article: 178
+  paragraph: 1
+  subparagraph: b
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Other
+  date_of_submission: 22/02/2021
+  status: Final Q&A
+  subject_matter: Treatment of cured defaulted exposures
+  question: |
+    For the treatment of cured defaulted exposures, a probation period of 90 days with no
+    default triggers must apply before the exposure is moved back to a non-defaulted status.
+    According to Article 178(1)(b CRR) default shall be considered to have occurred with regard to
+    a particular obligor when the obligor is more than 90 days past due on any material credit
+    obligation. However, if the material arrears fall below the thresholds, the arrears counter will
+    reset to 0. Should the probation period of 90 days with no default triggers apply before the
+    exposure is moved back to a non-defaulted status?
+  background: |
+    A probation period of 90 days must be met since the day a default exposure
+    does not meet any default criteria triggers.
+  context: |
+    Source 1: CRR Article 178 > Default of an obligor
+
+    1. A default shall be considered to have occurred with regard to a particular obligor when either or 
+    both of the following have taken place:
+    (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, 
+    the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions 
+    such as realising security;
+    (b) the obligor is past due more than 90 days on any material credit obligation to the institution, the 
+    parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days 
+    for exposures secured by residential or SME commercial real estate in the retail exposure class, as well as 
+    exposures to public sector entities). The 180 days shall not apply for the purposes of Article 127.
+
+    In the case of retail exposures, institutions may apply the definition of default laid down in points (a) 
+    and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to 
+    the total obligations of a borrower.
+
+    2. The following shall apply for the purposes of point (b) of paragraph 1:
+    (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised 
+    a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying 
+    amount is material;
+    (b) for the purposes of point (a), an advised limit comprises any credit limit determined by the institution 
+    and about which the obligor has been informed by the institution;
+    (c) days past due for credit cards commence on the minimum payment due date;
+    (d) materiality of a credit obligation past due shall be assessed against a threshold, defined by the 
+    competent authorities. This threshold shall reflect a level of risk that the competent authority considers 
+    to be reasonable;
+    (e) institutions shall have documented policies in respect of the counting of days past due, in particular 
+    in respect of the re-ageing of the facilities and the granting of extensions, amendments or deferrals, 
+    renewals, and netting of existing accounts. These policies shall be applied consistently over time, and 
+    shall be in line with the internal risk management and decision processes of the institution.
+
+    3. For the purpose of point (a) of paragraph 1, elements to be taken as indications of unlikeliness to 
+    pay shall include the following:
+    (a) the institution puts the credit obligation on non-accrued status;
+    (b) the institution recognises a specific credit adjustment resulting from a significant perceived decline 
+    in credit quality subsequent to the institution taking on the exposure;
+    (c) the institution sells the credit obligation at a material credit-related economic loss;
+    (d) the institution consents to a distressed restructuring of the credit obligation where this is likely 
+    to result in a diminished financial obligation caused by the material forgiveness, or postponement, of 
+    principal, interest or, where relevant fees. This includes, in the case of equity exposures assessed under 
+    a PD/LGD Approach, distressed restructuring of the equity itself;
+    (e) the institution has filed for the obligor's bankruptcy or a similar order in respect of an obligor's 
+    credit obligation to the institution, the parent undertaking or any of its subsidiaries;
+    (f) the obligor has sought or has been placed in bankruptcy or similar protection where this would avoid 
+    or delay repayment of a credit obligation to the institution, the parent undertaking or any of its subsidiaries.
+
+    4. Institutions that use external data that is not itself consistent with the definition of default laid 
+    down in paragraph 1, shall make appropriate adjustments to achieve broad equivalence with the definition of default.
+
+    5. If the institution considers that a previously defaulted exposure is such that no trigger of default 
+    continues to apply, the institution shall rate the obligor or facility as they would for a non-defaulted exposure. 
+    Where the definition of default is subsequently triggered, another default would be deemed to have occurred.
+
+    6. EBA shall develop draft regulatory technical standards to specify the conditions according to which a 
+    competent authority shall set the threshold referred to in paragraph 2(d).
+
+    7. EBA shall issue guidelines on the application of this Article. Those guidelines shall be adopted in accordance 
+    with Article 16 of Regulation (EU) No 1093/2010.
+
+    ==========================
+    Source 2 > EBA DoD Guidelines > Criteria for the return to a nondefaulted status > Minimum conditions for reclassification 
+    to a non-defaulted status
+
+    71. For the purposes of the application of Article 178(5) of Regulation (EU) 575/2013, except for
+    situations referred to in paragraph 72, institutions should apply all of the following:
+    (a) consider that no trigger of default continues to apply to a previously defaulted
+    exposure, where at least 3 months have passed since the moment that the conditions
+    referred to in Articles 178(1)(b) and 178(3) of Regulation (EU) No 575/2013 cease to
+    be met;
+    (b) take into account the behaviour of the obligor during the period referred to in point (a);
+    (c) take into account the financial situation of the obligor during the period referred to in
+    point (a);
+    (d) after the period referred to in point (a), perform an assessment, and, where the
+    institution still finds that the obligor is unlikely to pay its obligations in full without
+    recourse to realising security, the exposures should continue to be classified as
+    defaulted until the institution is satisfied that the improvement of the credit quality is
+    factual and permanent;
+    (e) the conditions referred to in points (a) to (d) should be met also with regard to new
+    exposures to the obligor, in particular where the previous defaulted exposures to this
+    obligor were sold or written off.
+    Institutions may apply the period referred to in point (a) to all exposures or apply different
+    periods for different types of exposures.
+    
+    72. For the purposes of the application of Article 178(5) of Regulation (EU) 575/2013, and where
+    distressed restructuring according to paragraph 49 of these guidelines applies to a defaulted
+    exposure, regardless of whether such restructuring was carried out before or after the
+    identification of default, institutions should consider that no trigger of default continues to
+    apply to a previously defaulted exposure, where at least 1 year has passed from the latest
+    between one of the following events:
+    (a) the moment of extending the restructuring measures;
+    (b) the moment when the exposure has been classified as defaulted;
+    (c) the end of the grace period included in the restructuring arrangements. 
+  answer: |
+    Minimum conditions for reclassification of a defaulted exposure or obligor to a
+    non-defaulted status, for the purposes of the application of Article 178(5) of
+    Regulation (EU) 575/2013 (CRR), are specified in the Guidelines on the
+    application of the definition of default under Article 178 of Regulation (EU)
+    No 575/2013 (EBA/GL/2016/07). Except for situations referred to in paragraph 72 of said
+    Guidelines (distressed restructuring on a defaulted exposure is subject to a probation
+    period of at least one year – see also Q&A 4867), all conditions from paragraph 71 of such
+    Guidelines should be satisfied for the reclassification of a defaulted exposure or obligor to
+    a non-defaulted status. As no trigger of default should continue to apply during a 3-months
+    minimum probation period in accordance with point (a) of paragraph 71 of the
+    Guidelines, no indication of unlikeliness to pay should be met in accordance
+    with Article 178(1)(a) CRR and no material amount should be past due in
+    accordance with point (b) of Article 178(1) CRR during this period. Furthermore, as part of the
+    assessment required by point (d) (d) of paragraph 71 of the Guidelines, point (b) of that
+    paragraph required that the institution takes into account the behavior of the obligor
+    during this probation period before reclassifying a defaulted exposure to
+    non-defaulted status, and thus the institution should consider any past due
+    amount during this period in the analysis of the behavior of the obligor.
+
+- question_id: 2020_5380
+  date_of_publication: 30/07/2021
+  topic: Credit risk
+  article: 178
+  paragraph: 1
+  subparagraph:
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Credit institution
+  date_of_submission: 21/07/2020
+  status: Final Q&A
+  subject_matter: Obligor level
+  question: |
+    When applying the default at obligor level for retail, should a credit
+    institution always consider a specific set of individual obligors that have a
+    joint obligation towards an institution as a different obligor (the unit of
+    default takes into consideration the JCO)?
+    Or is this to be applied only for the materiality threshold?
+  background: |
+    Paragraph 104 of EBA/GL/2016/07 (Guidelines on the application of the
+    definition of default under Article 178 CRR) stipulates: "A joint obligor, i.e. a
+    specific set of individual obligors that have a joint obligation towards an
+    institution, should be treated as a different obligor from each of the
+    individual obligors."
+    It is unclear whether - when we apply the default at obligor level for retail -
+    we should always consider specific set of individual obligors that have a joint
+    obligation towards an institution as a different obligor (the unit of default
+    takes into consideration the JCO) or whether this is to be applied only for the
+    materiality threshold.
+    It can be argued that this is stipulated in the Background and rationale
+    (paparaph 2.7.3, page 14) : "for the purpose of application of the materiality
+    threshold a joint obligor, i.e. a specific set of individual obligors that commit
+    to a joint exposure, should be treated as a different, separate obligor".
+    This is to understand if the level of application of the default in case of joint
+    credit obligation.
+    For example, if we have Mister A and Miss B that are sharing a credit
+    obligation and that have also credit alones, it is unclear if we have to
+    consider 3 units: Mister A, Miss B and the couple, or only 2 units: Mister A
+    and Miss B.
+    More specifically, we believe there is a need to define the notion of obligor;
+    and also to precise the context of the paragraph 104.
+    In particular, the bankruptcy trigger (paragraph 56 of the Guidelines) is
+    identified at the Legal person level and does not take into consideration this
+    notion of separate set of obligors. Then, if the rules describes in paragraph
+    104 apply to everything, it is unclear how to handle the default at Legal
+    person level. When considering paragraph 97, in case of JCO and only one
+    Legal Person is in bankruptcy, if the other Legal Person has no difficulties,
+    there would be no reason to identify it in default.
+    Additionally, according to Article 1(4) of Commission Delegated Regulation
+    (EU) No 1152/2014 it can be argued that the obligor is “the natural or legal
+    person, who is the institution’s counterparty to a general credit exposure or
+    the issuer of a financial instrument not included in the trading book or the
+    counterparty to a non-trading book exposure”, but there is no explicit
+    definition either in CRR or from the EBA.
+    It should be noted that, it is not an issue to apply the materiality threshold
+    for the default at the Legal Person level (all the Legal person that owned a
+    group of obligation breaching the threshold should be considered and that
+    will be consistent with the end of the paragraph 104).
+    The application of the paragraph 104 to everything could be also
+    inconsistent with paragraph 96, according to which “Institutions should
+    consider a joint credit obligation as an exposure to two or more obligors that
+    are equally responsible for the repayment of the credit obligation” in the
+    sense that if the bank has only shared account on Legal Person A and Legal
+    Person B (that happens on Retail- Person individuals), then only one obligor
+    will be considered and not “two or more”. So we will get Join Credit
+    obligation linked to one “obligor”.
+  context: |
+    Paragraph 104 of EBA/GL/2016/07 >>>
+    A joint obligor, i.e. a specific set of individual obligors that have a joint obligation towards
+    an institution, should be treated as a different obligor from each of the individual obligors. In
+    the case the delay in payment occurs on a joint credit obligation, the materiality of such delay
+    should be assessed by applying the materiality threshold referred to in point (d) of Article
+    178(2) of Regulation (EU) No 575/2013 to all joint credit obligations granted to this specific
+    set of obligors. For this purpose the individual exposures to obligors participating in a joint
+    credit obligation or to any other subsets of such obligors should not be taken into account.
+    However, where the materiality threshold for a joint obligor calculated in this way is
+    breached, all joint credit obligations of this set of obligors and all individual exposures to the
+    obligors participating in a joint credit obligation should be considered defaulted unless any of
+    the conditions specified in paragraph 97 is met.
+
+    =========
+    Paragraph 97 of EBA/GL/2016/07 >>>
+    Where the conditions of points (a) or (b) or both of Article 178(1) of Regulation (EU) No
+    575/2013 are met with regard to a joint credit obligation of two or more obligors, institutions
+    should consider all other joint credit obligations of the same set of obligors and all individual
+    exposures to those obligors as defaulted, unless they can justify that the recognition of
+    default on individual exposures is not appropriate because at least one of the following
+    conditions apply:
+    (a) the delay in payment of a joint credit obligation results from a dispute between the
+    individual obligors participating in the joint credit obligation that has been introduced
+    to a court or another formal procedure performed by a dedicated external body that
+    results in a binding ruling in accordance with the applicable legal framework in the
+    relevant jurisdiction, and there is no concern about the financial situation of the
+    individual obligors;
+    (b) a joint credit obligation is an immaterial part of the total obligations of an individual
+    obligor.
+
+    ========
+    Paragraph 99 of EBA/GL/2016/07 >>>
+    Where the conditions of points (a) or (b) or both of Article 178(1) of Regulation (EU) No
+    575/2013 are met with regard to the credit obligation of an individual obligor, the contagious
+    effect of this default should not automatically spread to any joint credit obligations of that
+    obligor; nevertheless, institutions should assess such joint credit obligations for possible
+    indications of unlikeliness to pay related with the default of one of the obligors. In any case,
+    where all individual obligors have a defaulted status, their joint credit obligation should
+    automatically also be considered defaulted.
+
+    =========
+
+    Source 1: CRR Article 178 > Default of an obligor
+
+    1. A default shall be considered to have occurred with regard to a particular obligor when either or 
+    both of the following have taken place:
+    (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, 
+    the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions 
+    such as realising security;
+    (b) the obligor is past due more than 90 days on any material credit obligation to the institution, the 
+    parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days 
+    for exposures secured by residential or SME commercial real estate in the retail exposure class, as well as 
+    exposures to public sector entities). The 180 days shall not apply for the purposes of Article 127.
+
+    In the case of retail exposures, institutions may apply the definition of default laid down in points (a) 
+    and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to 
+    the total obligations of a borrower.
+
+    2. The following shall apply for the purposes of point (b) of paragraph 1:
+    (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised 
+    a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying 
+    amount is material;
+    (b) for the purposes of point (a), an advised limit comprises any credit limit determined by the institution 
+    and about which the obligor has been informed by the institution;
+    (c) days past due for credit cards commence on the minimum payment due date;
+    (d) materiality of a credit obligation past due shall be assessed against a threshold, defined by the 
+    competent authorities. This threshold shall reflect a level of risk that the competent authority considers 
+    to be reasonable;
+    (e) institutions shall have documented policies in respect of the counting of days past due, in particular 
+    in respect of the re-ageing of the facilities and the granting of extensions, amendments or deferrals, 
+    renewals, and netting of existing accounts. These policies shall be applied consistently over time, and 
+    shall be in line with the internal risk management and decision processes of the institution.
+
+    3. For the purpose of point (a) of paragraph 1, elements to be taken as indications of unlikeliness to 
+    pay shall include the following:
+    (a) the institution puts the credit obligation on non-accrued status;
+    (b) the institution recognises a specific credit adjustment resulting from a significant perceived decline 
+    in credit quality subsequent to the institution taking on the exposure;
+    (c) the institution sells the credit obligation at a material credit-related economic loss;
+    (d) the institution consents to a distressed restructuring of the credit obligation where this is likely 
+    to result in a diminished financial obligation caused by the material forgiveness, or postponement, of 
+    principal, interest or, where relevant fees. This includes, in the case of equity exposures assessed under 
+    a PD/LGD Approach, distressed restructuring of the equity itself;
+    (e) the institution has filed for the obligor's bankruptcy or a similar order in respect of an obligor's 
+    credit obligation to the institution, the parent undertaking or any of its subsidiaries;
+    (f) the obligor has sought or has been placed in bankruptcy or similar protection where this would avoid 
+    or delay repayment of a credit obligation to the institution, the parent undertaking or any of its subsidiaries.
+
+    4. Institutions that use external data that is not itself consistent with the definition of default laid 
+    down in paragraph 1, shall make appropriate adjustments to achieve broad equivalence with the definition of default.
+
+    5. If the institution considers that a previously defaulted exposure is such that no trigger of default 
+    continues to apply, the institution shall rate the obligor or facility as they would for a non-defaulted exposure. 
+    Where the definition of default is subsequently triggered, another default would be deemed to have occurred.
+
+    6. EBA shall develop draft regulatory technical standards to specify the conditions according to which a 
+    competent authority shall set the threshold referred to in paragraph 2(d).
+
+    7. EBA shall issue guidelines on the application of this Article. Those guidelines shall be adopted in accordance 
+    with Article 16 of Regulation (EU) No 1093/2010.
+
+  answer: |
+    The first sentence of paragraph 104 of the Guidelines on the application of
+    the definition of default under Article 178 of Regulation (EU) No 575/2013
+    (EBA/GL/2016/07) states: “A joint obligor, i.e. a specific set of individual
+    obligors that have a joint obligation towards an institution, should be treated
+    as a different obligor from each of the individual obligors.” This sentence is
+    not limited to materiality of credit obligations past due for Article 178(1)(b)
+    CRR and the materiality threshold according to Article 178(2)(d) CRR, thus
+    this sentence also applies to unlikeliness to pay according to Article 178(1)(a)
+    CRR.
+    That the specific treatment of joint obligors is not limited to the materiality
+    threshold but also applies for unlikeliness to pay is already made clear by
+    paragraph 97 of EBA/GL/2016/07, which requires extending the default
+    classification of individual  exposures to the joint obligors not only arising
+    from the material past due criterion according to point (b) but explicitly also
+    from the unlikeliness-to-pay criterion according to point (a) of Article 178(1)
+     CRR. Paragraph 99 of said Guidelines additionally clarifies that where the
+    conditions of points (a) or (b) or both of Article 178(1) CRR are met with
+    regard to the credit obligation of an individual obligor, the contagious
+    effect of this default should not automatically spread to any joint credit
+    obligations of that obligor but nevertheless, institutions should assess such
+    joint credit obligations for possible indications of unlikeliness to pay related
+    with the default of one of the obligors.
+
+- question_id: 2020_5357
+  date_of_publication: 01/10/2021
+  topic: Credit risk
+  article: 134
+  paragraph: 7
+  subparagraph:
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Consultancy firm
+  date_of_submission: 07/07/2020
+  status: Final Q&A
+  subject_matter: |
+    Leasing - Contagion du défaut aux paiements minimaux - Default contagion
+    for minimum payments
+  question: |
+    Under the standardised method, in the context of equipment leasing (vehicle
+    lease), if more than three months of the lease are unpaid, must the default
+    definition be applied to these due and unpaid payments of the lease only, or
+    is it essential that a default contagion be applied to all projected lease
+    payments which are not yet due (minimum payments provided for in the
+    lease: see Article 134(7) CRR)?
+  background: |
+    Example:
+    Monthly lease payment = EUR 100
+    Total payments for the duration of the lease: EUR 100 x 48 months = EUR 4800
+    (minimum payments expected from the start of the lease}
+    Lease payments made over 8 months = EUR 800
+    Lease payments still due after 8 months: EUR 4000
+    Unpaid lease payments for 4 months = EUR 400 => in default
+    Lease payments not due but expected under the lease (minimum remaining
+    payments due) = EUR 3600 => are they defined in default, by contagion?
+    Or are they to be kept as performing assets as they have not fallen due yet?
+    In COREP reporting, should the total amount of the exposure in default be
+    EUR 400 (as this amount corresponds to more than 3 due and unpaid
+    monthly lease payments) or EUR 4000 (the total minimum payments due
+    and not yet due).
+    BACKGROUND :
+    - Equipment leasing
+    - Calculation of the requirement for own funds in the standard method
+    - Credit risk
+    - ‘COREP’ reporting
+    - Defined as ‘in default’
+    - Default contagion to minimum payments (within the meaning of Article
+      134(7) CRR)
+  context: |
+    CRR Article 134 >>>
+
+    1.   Tangible assets within the meaning of Article 4(10) of Directive 86/635/EEC shall be assigned a risk weight of 100 %.
+
+    2.   Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with 
+    Directive 86/635/EEC, shall be assigned a risk weight of 100 %.
+    
+    3.   Cash items in the process of collection shall be assigned a 20 % risk weight. Cash in hand and equivalent cash items 
+    shall be assigned a 0 % risk weight.
+    
+    4.   Gold bullion held in own vaults or on an allocated basis to the extent backed by bullion liabilities shall be assigned 
+    a 0 % risk weight.
+    
+    5.   In the case of asset sale and repurchase agreements and outright forward purchases, the risk weight shall be that assigned 
+    to the assets in question and not to the counterparties to the transactions.
+    
+    6.   Where an institution provides credit protection for a number of exposures under terms that the nth 
+    default among the exposures shall trigger payment and that this credit event shall terminate the contract, 
+    and where the product has an external credit assessment from an ECAI, the risk weights prescribed in Chapter 5 
+    shall be assigned. If the product is not rated by an ECAI, the risk weights of the exposures included in the 
+    basket will be aggregated, excluding n-1 exposures, up to a maximum of 1 250 % and multiplied by the nominal 
+    amount of the protection provided by the credit derivative to obtain the risk weighted asset amount. 
+    The n-1 exposures to be excluded from the aggregation shall be determined on the basis that they shall 
+    include those exposures each of which produces a lower risk-weighted exposure amount than the risk-weighted 
+    exposure amount of any of the exposures included in the aggregation.
+    
+    7.   The exposure value for leases shall be the discounted minimum lease payments. Minimum lease payments are 
+    the payments over the lease term that the lessee is or can be required to make and any bargain option the 
+    exercise of which is reasonably certain. A party other than the lessee may be required to make a payment 
+    related to the residual value of a leased property and that payment obligation fulfils the set of conditions 
+    in Article 201 regarding the eligibility of protection providers as well as the requirements for recognising 
+    other types of guarantees provided in Articles 213 to 215, that payment obligation may be taken into account 
+    as unfunded credit protection under Chapter 4. These exposures shall be assigned to the relevant exposure 
+    class in accordance with Article 112. When the exposure is a residual value of leased assets, the risk weighted 
+    exposure amounts shall be calculated as follows: 1/t * 100 % * residual value, where t is the greater of 1 and the nearest 
+    number of whole years of the lease remaining.
+
+    =========
+
+    Source 1: CRR Article 178 > Default of an obligor
+
+    1. A default shall be considered to have occurred with regard to a particular obligor when either or 
+    both of the following have taken place:
+    (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, 
+    the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions 
+    such as realising security;
+    (b) the obligor is past due more than 90 days on any material credit obligation to the institution, the 
+    parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days 
+    for exposures secured by residential or SME commercial real estate in the retail exposure class, as well as 
+    exposures to public sector entities). The 180 days shall not apply for the purposes of Article 127.
+
+    In the case of retail exposures, institutions may apply the definition of default laid down in points (a) 
+    and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to 
+    the total obligations of a borrower.
+
+    2. The following shall apply for the purposes of point (b) of paragraph 1:
+    (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised 
+    a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying 
+    amount is material;
+    (b) for the purposes of point (a), an advised limit comprises any credit limit determined by the institution 
+    and about which the obligor has been informed by the institution;
+    (c) days past due for credit cards commence on the minimum payment due date;
+    (d) materiality of a credit obligation past due shall be assessed against a threshold, defined by the 
+    competent authorities. This threshold shall reflect a level of risk that the competent authority considers 
+    to be reasonable;
+    (e) institutions shall have documented policies in respect of the counting of days past due, in particular 
+    in respect of the re-ageing of the facilities and the granting of extensions, amendments or deferrals, 
+    renewals, and netting of existing accounts. These policies shall be applied consistently over time, and 
+    shall be in line with the internal risk management and decision processes of the institution.
+
+    3. For the purpose of point (a) of paragraph 1, elements to be taken as indications of unlikeliness to 
+    pay shall include the following:
+    (a) the institution puts the credit obligation on non-accrued status;
+    (b) the institution recognises a specific credit adjustment resulting from a significant perceived decline 
+    in credit quality subsequent to the institution taking on the exposure;
+    (c) the institution sells the credit obligation at a material credit-related economic loss;
+    (d) the institution consents to a distressed restructuring of the credit obligation where this is likely 
+    to result in a diminished financial obligation caused by the material forgiveness, or postponement, of 
+    principal, interest or, where relevant fees. This includes, in the case of equity exposures assessed under 
+    a PD/LGD Approach, distressed restructuring of the equity itself;
+    (e) the institution has filed for the obligor's bankruptcy or a similar order in respect of an obligor's 
+    credit obligation to the institution, the parent undertaking or any of its subsidiaries;
+    (f) the obligor has sought or has been placed in bankruptcy or similar protection where this would avoid 
+    or delay repayment of a credit obligation to the institution, the parent undertaking or any of its subsidiaries.
+
+    4. Institutions that use external data that is not itself consistent with the definition of default laid 
+    down in paragraph 1, shall make appropriate adjustments to achieve broad equivalence with the definition of default.
+
+    5. If the institution considers that a previously defaulted exposure is such that no trigger of default 
+    continues to apply, the institution shall rate the obligor or facility as they would for a non-defaulted exposure. 
+    Where the definition of default is subsequently triggered, another default would be deemed to have occurred.
+
+    6. EBA shall develop draft regulatory technical standards to specify the conditions according to which a 
+    competent authority shall set the threshold referred to in paragraph 2(d).
+
+    7. EBA shall issue guidelines on the application of this Article. Those guidelines shall be adopted in accordance 
+    with Article 16 of Regulation (EU) No 1093/2010.
+    
+  answer: |
+    In accordance with Article 178(1)( b) of Regulation (EU) No. 575/2013
+    (“CRR”), “a default shall be considered to have occurred with regard to a
+    particular obligor when”, in particular, “the obligor is more than 90 days
+    past due on any material credit obligation to the institution, the parent
+    undertaking or any of its subsidiaries.”
+    Unless the institution applies the definition of default at the level of an
+    individual credit facility, as provided for by the second subparagraph of the
+    same Article and paragraph to the respective exposures, it follows that in
+    case of a default of the obligor in accordance with Article 178(1)(b) CRR all
+    exposures towards that particular obligor shall be classified in default status.
+    In case the definition of default is applied at the level of an individual credit
+    facility as in accordance with Article 134(7) CRR, “the exposure value for
+    leases shall be the discounted minimum lease payments”, irrespective of
+    some lease payments being still not due, the exposure related to a given
+    lease contract with any material payments past due for more than three
+    months, or any other indication of unlikeliness to pay, is classified as in
+    default.
+
+- question_id: 2019_4666
+  date_of_publication: 09/10/2020
+  topic: Credit risk
+  article: 123
+  paragraph:
+  subparagraph:
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Credit institution
+  date_of_submission: 11/04/2019
+  status: Final Q&A
+  subject_matter: Absolute materiality threshold for Retail based on the new RTS
+  question: |
+    How to apply Article 123(c) CRR to set the absolute component of the
+    materiality threshold in the case of transition of exposures to or from Retail.
+  background: |
+    The question is on the application of Definition of Default and in particular
+    on the threshold used for DoD for retail exposures.
+    Article 1(4) of RTS 2018/171 on the materiality threshold for credit
+    obligations past due under Article 178 of Regulation (EU) No 575/2013
+    (CRR) references Article 123 CRR for the definition of retail or institutions
+    that apply the Standardised Approach and, hence, the 100 EUR vs 500 EUR
+    minimum amount (i.e. absolute component).
+    Article 123 CRR lists a number of conditions that must be met in order for an
+    exposure to be classified as Retail. Given that according to paragraph (c) the
+    classification depends on the total exposure to a group of connected clients,
+    it is not clear how this should be applied to set the absolute component of
+    the materiality threshold in the case of transition of exposures to or from
+    Retail, as defined in Article 123.
+    There are cases when it is unclear how to apply the materiality threshold for
+    all exposures, at any point in time, in accordance with the classification of an
+    obligor as retail or as corporate, in particular when the exposures are to a
+    group of connected clients. For example:
+    1: an exposure of 500,000 Euro to a natural person, classified as retail on a
+    standalone basis, but part of a group of connected clients with an overall
+    exposure of over 1 million;
+    2: a similar case to example 1, but where the retail client's exposure is
+    20,000 Euro and the client has 200 Euro past due, which is 1% and above
+    100 EUR;
+    3: a similar type of client as above with an exposure of 30,000 Euros fully
+    secured by a mortgage
+    4: a group of connected clients with a total exposure of 1.5 million Euros, of
+    which  700,000 fully and completely secured on residential property
+    collateral. One of the clients in this group has an exposure of 20,000 EUR. It
+    is unclear whether this exposure would qualify as retail, as the unsecured
+    part is below 1 million.  Also, it is unclear what would happen if the collateral
+    becomes ineligible.
+  context: |
+    Source 1: CRR Article 178 > Default of an obligor
+
+    1. A default shall be considered to have occurred with regard to a particular obligor when either or 
+    both of the following have taken place:
+    (a) the institution considers that the obligor is unlikely to pay its credit obligations to the institution, 
+    the parent undertaking or any of its subsidiaries in full, without recourse by the institution to actions 
+    such as realising security;
+    (b) the obligor is past due more than 90 days on any material credit obligation to the institution, the 
+    parent undertaking or any of its subsidiaries. Competent authorities may replace the 90 days with 180 days 
+    for exposures secured by residential or SME commercial real estate in the retail exposure class, as well as 
+    exposures to public sector entities). The 180 days shall not apply for the purposes of Article 127.
+
+    In the case of retail exposures, institutions may apply the definition of default laid down in points (a) 
+    and (b) of the first subparagraph at the level of an individual credit facility rather than in relation to 
+    the total obligations of a borrower.
+
+    2. The following shall apply for the purposes of point (b) of paragraph 1:
+    (a) for overdrafts, days past due commence once an obligor has breached an advised limit, has been advised 
+    a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying 
+    amount is material;
+    (b) for the purposes of point (a), an advised limit comprises any credit limit determined by the institution 
+    and about which the obligor has been informed by the institution;
+    (c) days past due for credit cards commence on the minimum payment due date;
+    (d) materiality of a credit obligation past due shall be assessed against a threshold, defined by the 
+    competent authorities. This threshold shall reflect a level of risk that the competent authority considers 
+    to be reasonable;
+    (e) institutions shall have documented policies in respect of the counting of days past due, in particular 
+    in respect of the re-ageing of the facilities and the granting of extensions, amendments or deferrals, 
+    renewals, and netting of existing accounts. These policies shall be applied consistently over time, and 
+    shall be in line with the internal risk management and decision processes of the institution.
+
+    3. For the purpose of point (a) of paragraph 1, elements to be taken as indications of unlikeliness to 
+    pay shall include the following:
+    (a) the institution puts the credit obligation on non-accrued status;
+    (b) the institution recognises a specific credit adjustment resulting from a significant perceived decline 
+    in credit quality subsequent to the institution taking on the exposure;
+    (c) the institution sells the credit obligation at a material credit-related economic loss;
+    (d) the institution consents to a distressed restructuring of the credit obligation where this is likely 
+    to result in a diminished financial obligation caused by the material forgiveness, or postponement, of 
+    principal, interest or, where relevant fees. This includes, in the case of equity exposures assessed under 
+    a PD/LGD Approach, distressed restructuring of the equity itself;
+    (e) the institution has filed for the obligor's bankruptcy or a similar order in respect of an obligor's 
+    credit obligation to the institution, the parent undertaking or any of its subsidiaries;
+    (f) the obligor has sought or has been placed in bankruptcy or similar protection where this would avoid 
+    or delay repayment of a credit obligation to the institution, the parent undertaking or any of its subsidiaries.
+
+    4. Institutions that use external data that is not itself consistent with the definition of default laid 
+    down in paragraph 1, shall make appropriate adjustments to achieve broad equivalence with the definition of default.
+
+    5. If the institution considers that a previously defaulted exposure is such that no trigger of default 
+    continues to apply, the institution shall rate the obligor or facility as they would for a non-defaulted exposure. 
+    Where the definition of default is subsequently triggered, another default would be deemed to have occurred.
+
+    6. EBA shall develop draft regulatory technical standards to specify the conditions according to which a 
+    competent authority shall set the threshold referred to in paragraph 2(d).
+
+    7. EBA shall issue guidelines on the application of this Article. Those guidelines shall be adopted in accordance 
+    with Article 16 of Regulation (EU) No 1093/2010.
+
+    ===============
+    CRR Article 123 >>> 
+    Exposures that comply with the following criteria shall be assigned a risk weight of 75 %:
+
+    (a) the exposure shall be either to an natural person or persons, or to a small or medium-sized enterprise (SME);
+    
+    (b) the exposure shall be one of a significant number of exposures with similar characteristics such that the risks 
+    associated with such lending are substantially reduced;
+    
+    (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure 
+    in default, by the obligor client or group of connected clients, but excluding exposures fully and completely 
+    secured on residential property collateral that have been assigned to the exposure class laid down in point (i) of 
+    Article 112, shall not, to the knowledge of the institution, exceed EUR 1 million. The institution shall take reasonable 
+    steps to acquire this knowledge.
+    
+    Securities shall not be eligible for the retail exposure class.
+    
+    Exposures that do not comply with the criteria referred to in points (a) to (c) of the first subparagraph shall not be 
+    eligible for the retail exposures class.
+    
+    The present value of retail minimum lease payments is eligible for the retail exposure class.
+    
+    ===============
+    CRR Article 127 >>> 
+    1.   The unsecured part of any item where the obligor has defaulted in accordance with Article 178, or in the case of 
+    retail exposures, the unsecured part of any credit facility which has defaulted in accordance with Article 178 shall be 
+    assigned a risk weight of:
+
+    (a) 150 %, where specific credit risk adjustments are less than 20 % of the unsecured part of the exposure value if 
+    these specific credit risk adjustments were not applied;
+    
+    (b) 100 %, where specific credit risk adjustments are no less than 20 % of the unsecured part of the exposure value if 
+    these specific credit risk adjustments were not applied.
+    
+    2.   For the purpose of determining the secured part of the past due item, eligible collateral and guarantees shall 
+    be those eligible for credit risk mitigation purposes under Chapter 4.
+    
+    3.   The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured 
+    by mortgages on residential property in accordance with Article 125 shall be assigned a risk weight of 100 % if a default 
+    has occurred in accordance with Article 178.
+    
+    4.   The exposure value remaining after specific credit risk adjustments of exposures fully and completely secured by 
+    mortgages on commercial immovable property in accordance with Article 126 shall be assigned a risk weight of 100 % 
+    if a default has occurred in accordance with Article 178.
+
+    =========
+    Paragraph 86 of EBA/GL/2016/07 >>>
+    According to the second sub-paragraph of Article 178(1) of Regulation (EU) No 575/2013, in
+    the case of retail exposures, institutions may apply the definition of default at the level of an
+    individual credit facility rather than in relation to the total obligations of a borrower.
+    Therefore, institutions that use the IRB Approach, in particular, may apply the definition of
+    default at the level of the individual facility for retail exposures as defined in Article 147(5) of
+    Regulation (EU) 575/2013. Institutions that use the Standardised Approach, instead may apply
+    the definition of default at the level of an individual credit facility for all exposures that meet
+    the criteria specified in Article 123 of Regulation (EU) 575/2013, even where some of those
+    exposures have been assigned to a different exposure class for the purpose of assigning a risk
+    weight, such as exposures secured by mortgages on immovable property. 
+
+    =========
+    Paragraph 88 of EBA/GL/2016/07 >>>
+    Institutions may apply the definition of default at the level of an obligor for some types of
+    retail exposures and at the level of a credit facility for others, where this is well justified by
+    internal risk management practices, for instance due to a different business model of a
+    subsidiary, and where there is evidence that the number of situations where the same clients
+    are subject to different definitions of default at different levels of application is kept to a strict
+    minimum.
+        
+  answer: |
+    For all past-due exposures, at any point in time, the materiality threshold
+    should be applied in accordance with the current classification of an obligor
+    as retail or as non-retail.
+    Where a client is part of a group of connected clients, the total amount owed
+    for the purpose of classification as retail under Article 123(c) of Regulation
+    (EU) No 575/2013 as amended by Regulation (EU) 2019/876 (CRR2) is
+    calculated at the level of the group of connected clients . Conversely, the
+    materiality threshold for the purpose of the default definition under Articles
+    127 and 178 CRR is assessed separately at the level of each individual
+    obligor or, where applicable, separately at the level of each individual credit
+    facility of such obligors.
+    Moreover, pursuant to paragraph 61 of the EBA Guidelines 2016/07 on the
+    application of the definition of default under Article 178 of Regulation (EU)
+    No 575/2013, when specifying the criteria for unlikeliness to pay, institutions
+    should take into consideration the relations within the groups of connected
+    clients as defined in Article 4(1)(39) CRR2. In particular, institutions should
+    specify in their internal policies when the default of one obligor within the
+    group of connected clients has a contagious effect on other entities within
+    this group. Such specifications should be in line with the appropriate policies
+    for the assignment of exposures to individual obligor to an obligor grade and
+    to groups of connected clients in accordance with Article 172(1)(d) CRR2
+    and with EBA Guidelines 2017/15 on connected clients. Where such criteria
+    have not been specified for a non-standard situation, in the case of default of
+    an obligor that is part of a group of connected clients, institutions should
+    assess the potential unlikeliness to pay of all other entities within this group
+    on a case-by-case basis.
+    In addition, as clarified in paragraph 86 and following of the EBA Guidelines
+    2016/07 on the application of the definition of default under Article 178 of
+    Regulation (EU) No 575/2013, institutions that use the Standardised
+    Approach may apply the definition of default at the level of an individual
+    credit facility. Institutions that use the Standardised Approach may apply
+    this treatment for all exposures that meet the criteria specified in Article 123
+    CCR2, even where some of those exposures have been assigned to a different
+    exposure class for the purpose of assigning a risk weight, such as exposures
+    secured by mortgages on immovable property. The level of application of the
+    definition of default should then be consistently used for all retail exposures,
+    unless other approach is well justified by internal risk management practices
+    (as clarified in paragraph 88 of the EBA Guidelines 2016/07).
+    On how to calculate the total amount owed to the institution by an obligor
+    and parent undertakings and its subsidiaries under Article 123(c) CRR2 in
+    order to determine whether an exposure can be classified as Retail under the
+    Standardised Approach, see also Q&A 4012.
+
+- question_id: 2018_4431
+  date_of_publication: 07/08/2020
+  topic: Credit risk
+  article: 178
+  paragraph: 1
+  subparagraph: b
+  legal_act: Regulation (EU) No 575/2013 (CRR)
+  type_of_submitter: Credit institution
+  date_of_submission: 21/12/2018
+  status: Final Q&A
+  subject_matter: Treatment of joint credit obligations
+  question: |
+    Do the requirements established in the Guidelines on the application of the
+    definition of default under Article 178 of Regulation (EU) No 575/2013
+    regarding joint credit obligations, and in particular the requirements 95, 96,
+    97, 98, 99, 103, 104 and 105, relate or affect exclusively to retail exposures?
+    In that case, could the treatment of joint credit obligations in which the
+    obligors are classified as Non – Retail differ from the treatment of joint credit
+    obligations in which the obligors are classified as Retail?
+    In addition, and, as per this purpose, what should be the treatment of joint
+    credit obligations shared by retail and non-retail obligors?
+  background: |
+    Chapter 9 of the Guidelines on the application of the definition of default
+    under Article 178 of Regulation (EU) No 575/2013 sets the specific
+    requirements regarding the treatment of joint credit obligations where an
+    institution decides to apply the definition of default at the obligor level for
+    retail exposures. Nevertheless, these Guidelines don’t include any specific
+    requirements regarding the treatment of joint credit obligations for non-
+    retail exposures.
+    In this context, the treatment of joint credit obligations for non-retail
+    exposures, or even when the joint credit obligation is shared among retail
+    obligor(s) and non-retail obligor(s), does not seem to be specifically defined.
+  context: |
+    Paragraph 95 of EBA/GL/2016/07 >>>
+    Application of the definition of default for retail exposures at the obligor level
+    The application of the definition of default for retail exposures at the obligor level implies
+    that, where any credit obligation of the obligor meets the conditions of points (a) or (b) or
+    both of Article 178(1) of Regulation (EU) No 575/2013, then all exposures to that obligor
+    should be considered defaulted. Institutions that decide to apply the definition of default for
+    retail exposures at the obligor level should specify detailed rules for the treatment of joint
+    credit obligations and default contagion between exposures in their internal policies and
+    procedures.
+
+    ======
+    Paragraph 58 of EBA/GL/2016/07 >>>
+    Institutions should specify in their internal policies and procedures other additional
+    indications of unlikeliness to pay of an obligor, besides those specified in Article 178(3) of
+    Regulation (EU) No 575/2013. Those additional indications should be specified per type of
+    exposures, as defined in point (2) of Article 142(1) of Regulation (EU) No 575/2013, reflecting
+    their specificities, and they should be specified for all business lines, legal entities or
+    geographical locations. The occurrence of an additional indication of unlikeliness to pay
+    should either result in an automatic reclassification to defaulted exposures or trigger a caseby-case 
+    assessment and may include indications based on internal or external information.
+    
+  answer: |
+    Paragraphs 95 and following of the EBA guidelines on the definition of
+    default only prescribe the treatment institutions should apply to a joint credit
+    obligation classified as retail exposure. Therefore it should be up to
+    institutions to specify the treatment of joint credit obligations other than
+    retail and for default contagion between exposures in their internal policies
+    and procedures, as part of the ‘other indications of unlikeliness to pay’, as
+    mentioned in section 5 of the EBA guidelines on the definition of default. In
+    particular, where one or all entities involved in the joint obligation is/are not
+    classified as retail exposures, the treatment provided for in chapter 9 of the
+    aforementioned GLs should be applied for the retail entities and may also be
+    applied for the non-retail entities.

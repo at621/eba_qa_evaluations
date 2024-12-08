@@ -1,0 +1,52 @@
+DefinitionOfDefaultGuidelines: |
+  The guidelines provide a common framework for applying the definition of default (DoD) across financial institutions in the EU. 
+  These guidelines aim to enhance consistency, promote a level playing field, and ensure comparability of risk parameters and 
+  capital requirements under the Internal Ratings Based (IRB) and Standardised Approaches.
+
+  A. Purpose:
+  The guidelines clarify how to identify default events to avoid inconsistencies that impact comparability. 
+  Harmonization ensures uniform practices, and a phase-in period is included to ease the implementation for institutions using the IRB approach.
+
+  B. Vocabulary:
+  - "Obligor: The party responsible for repaying a debt."
+  - "Exposure: The financial institution's risk associated with a specific obligor."
+  - "Default: A situation where the obligor is unlikely to fully repay obligations without lender actions such as realizing collateral."
+  - "Materiality Threshold: The minimum overdue amount or percentage of obligations that triggers default. It includes absolute 
+  (minimum amount overdue) and relative (percentage of total obligations) components."
+  - "Distressed Restructuring: Modifications to credit agreements reducing borrower obligations due to financial difficulties."
+  - "Probation Period: The period during which a defaulted obligor must demonstrate satisfactory repayment to return to non-defaulted status."
+
+  C. Level of Application:
+  - For corporate exposures, default must be applied at the obligor level, meaning all obligations of a defaulted obligor are considered defaulted.
+  - For retail exposures, default can be applied at the facility level (assessing individual facilities) or the obligor level 
+  (default in one exposure applies to all). Institutions may use different applications for retail exposure types but 
+  should maintain consistency within legal entities and jurisdictions.
+
+  D. Default Triggers:
+  Two main conditions trigger default:
+  1. Days Past Due: Obligations overdue by more than 90 days, breaching the materiality threshold.
+  2. Unlikeliness to Pay: Situations where repayment in full is unlikely without lender action, such as:
+     - Interest no longer recognized due to credit quality issues.
+     - Specific credit risk adjustments indicating a significant decline in credit quality.
+     - Sale of obligations resulting in material economic loss.
+     - Restructuring that diminishes financial obligations.
+     - Bankruptcy or similar protection filed by the obligor.
+  
+  Additional indications of unlikeliness to pay include internal signals, such as lost income or rising leverage, and external factors, 
+  like sector crises or delays with other creditors.
+
+  E. Returning to Non-Defaulted Status:
+  Obligors can return to non-defaulted status after repaying overdue amounts, resolving triggers, and meeting a satisfactory 
+  probation period (minimum 3 months for most cases and 1 year for distressed restructuring).
+
+  F. Use of External Data:
+  Institutions using external data for risk estimation must ensure it aligns with their internal default definition. 
+  Discrepancies must be adjusted or justified as negligible; otherwise, a conservative margin should be applied.
+
+  H. Documentation Requirements:
+  Institutions must document their default identification processes, criteria for reclassification, and maintain a 
+  history of default definitions. Both automatic and manual mechanisms should be described.
+
+  I. Internal Governance:
+  The management body or senior committees must approve the institution's definition of default. 
+  It should be consistently applied for own funds requirements and risk management purposes, and processes should be regularly audited.
